@@ -1,0 +1,158 @@
+# depslib dependency file v1.0
+1570493572 source:c:\users\alumno\documents\codeblocks\delgado_leandro_1f\clientesjuegos.c
+	"ClientesJuegos.h"
+	"utn.H"
+	<string.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1570493699 source:c:\users\alumno\documents\codeblocks\delgado_leandro_1f\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ClientesJuegos.h"
+	"utn.h"
+	<string.h>
+	<windows.h>
+
+1570487136 source:c:\users\alumno\documents\codeblocks\delgado_leandro_1f\utn.c
+	"utn.h"
+	<string.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1570492627 c:\users\alumno\documents\codeblocks\delgado_leandro_1f\utn.h
+
+1570492783 c:\users\alumno\documents\codeblocks\delgado_leandro_1f\clientesjuegos.h
+
+1570563563 source:c:\users\leand\desktop\nueva carpeta\delgado_leandro_1f\clientesjuegos.c
+	"ClientesJuegos.h"
+	"utn.H"
+	<string.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<ctype.h>
+
+1570563266 c:\users\leand\desktop\nueva carpeta\delgado_leandro_1f\clientesjuegos.h
+
+1570555624 c:\users\leand\desktop\nueva carpeta\delgado_leandro_1f\utn.h
+
+1570560322 source:c:\users\leand\desktop\nueva carpeta\delgado_leandro_1f\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ClientesJuegos.h"
+	"utn.h"
+	<string.h>
+	<windows.h>
+	<ctype.h>
+
+1570563225 source:c:\users\leand\desktop\nueva carpeta\delgado_leandro_1f\utn.c
+	"utn.h"
+	<string.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<ctype.h>
+
+1570573935 source:d:\parcial\utn.c
+	"utn.h"
+	<string.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<ctype.h>
+
+1570572364 d:\parcial\utn.h
+
+1570582992 source:d:\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ClientesJuegos.h"
+	"utn.h"
+	<string.h>
+	<windows.h>
+	<ctype.h>
+
+1570572364 d:\parcial\clientesjuegos.h
+
+1570583468 source:d:\parcial\clientesjuegos.c
+	"ClientesJuegos.h"
+	"utn.H"
+	<string.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<ctype.h>
+
+1574028792 source:c:\users\leand\desktop\delgado_leandro_1f (1)\clientesjuegos.c
+	"ClientesJuegos.h"
+	"utn.H"
+	<string.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<ctype.h>
+
+1574029392 c:\users\leand\desktop\delgado_leandro_1f (1)\clientesjuegos.h
+
+1573918687 c:\users\leand\desktop\delgado_leandro_1f (1)\utn.h
+
+1574027134 source:c:\users\leand\desktop\delgado_leandro_1f (1)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ClientesJuegos.h"
+	"utn.h"
+	<string.h>
+	<windows.h>
+	<ctype.h>
+
+1573934913 source:c:\users\leand\desktop\delgado_leandro_1f (1)\utn.c
+	"utn.h"
+	<string.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<ctype.h>
+
+1574199391 source:c:\users\ledel\desktop\delgado_leandro_1f completo\clientesjuegos.c
+	"ClientesJuegos.h"
+	"utn.H"
+	<string.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<ctype.h>
+
+1574040654 c:\users\ledel\desktop\delgado_leandro_1f completo\clientesjuegos.h
+
+1574040656 c:\users\ledel\desktop\delgado_leandro_1f completo\utn.h
+
+1574040656 source:c:\users\ledel\desktop\delgado_leandro_1f completo\utn.c
+	"utn.h"
+	<string.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<ctype.h>
+
+1574199225 source:c:\users\ledel\desktop\delgado_leandro_1f completo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ClientesJuegos.h"
+	"utn.h"
+	<string.h>
+	<windows.h>
+	<ctype.h>
+
